@@ -5,7 +5,7 @@
  la-left arm
  ra -right arm
  lh- lefthip
- ra-right arm
+ ra-right jkjkarm
  lh - left hip
  rh - right hip
  ha- both hand
