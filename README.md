@@ -4,3 +4,5 @@ swp[dfghjkl;tyuioofhyjuikxghjkl;'
 fgh
 \cv
 olp
+dfzx
+zx;'
