@@ -1,3 +1,3 @@
 # Arduinolightdance
 A suit used for Dance
-swp[dfghjkl;
+swp[dfghjkl;tyuioofhyjuikolp
