@@ -69,7 +69,7 @@ void h(){
     digitalWrite(4,1);
     delay(100);
 //    digitalWrite(4,0);
-//    delay(100);
+//    delay(1000);
   }
 }
 void ha(){
