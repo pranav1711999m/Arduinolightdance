@@ -525,7 +525,7 @@ digitalWrite(10, HIGH);
   delay(100);
   digitalWrite(8, LOW);
   digitalWrite(7, LOW);
-  delay(100);
+  delay(1000);
   digitalWrite(6, HIGH);
   digitalWrite(5, HIGH);
   delay(100);
